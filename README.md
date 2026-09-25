@@ -1,6 +1,6 @@
 # PalerMove - Car and Scooter Sharing App
 
-**Repository:** CarRentalApp  
+**Repository:** PalerMove 
 **Project Type:** University Project  
 **Contributors:** Gabriele Fraterrigo and 2 colleagues  
 
