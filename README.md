@@ -36,7 +36,7 @@ The architecture follows a **Client-Server model**. Client nodes represent user 
 
 ## Repository Structure
 
-CarRentalApp/
+PalerMove/
 ├── frontend/ # ReactJS frontend application
 ├── backend/ # NodeJS + ExpressJS server
 ├── SDD/ # Software Design Document
